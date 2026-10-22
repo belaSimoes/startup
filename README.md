@@ -1,1 +1,6 @@
-# startup
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+.env
+*.log
